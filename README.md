@@ -22,3 +22,9 @@ To run this project you need to follow the required steps:
 
 After completing all of the above steps you'll successfully run this Django commerce project.
 
+For this project to store the encyclopedia entries you need to use a markup language called Markdown.
+In order to use this language you need to install the language syntax.
+		
+		- In command prompt run pip3 install markdown2.
+
+
